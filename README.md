@@ -80,7 +80,7 @@ The backend is built using **Flask**, which serves the trained model and handles
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/MohammedBardaoui/Email-Spam-Detection-with-NLP-Machine-Learning-Chrome-Extension-Flask-API-.git
+git clone https://github.com/MohammedBardaoui/Email-Spam-Detection-with-NLP-ML-Extension-FlaskAPI.git
 cd project_root
 ```
 
