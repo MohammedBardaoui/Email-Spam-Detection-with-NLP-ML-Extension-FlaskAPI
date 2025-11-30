@@ -135,3 +135,8 @@ The images below show the results of the extension in action when detecting spam
 ![Result 3](images/result3.png)
 
 
+---
+
+## Final Notes
+
+This project brings together Machine Learning, NLP, and a Chrome extension to create a practical tool for detecting spam emails in real time. It aims to provide a simple, efficient, and user-friendly way to enhance email safety, with room for future improvements and feature expansion.
